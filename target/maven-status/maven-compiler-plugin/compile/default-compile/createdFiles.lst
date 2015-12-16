@@ -1,1 +1,4 @@
-com\example\controller\HelloWorld.class
+com\example\components\CustomerDAO.class
+com\example\controllers\HelloWorld.class
+com\example\services\CustomerService.class
+com\example\main\MainApp.class
